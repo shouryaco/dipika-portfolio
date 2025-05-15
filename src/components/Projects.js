@@ -32,6 +32,7 @@ import crevzlimo from "../assets/img/banner/crevzlimo.jpg";
 import smokysupplies from "../assets/img/banner/smokysupplies.jpg";
 
 import arenaLogo from "../assets/img/logo/Arena-logo.jpg";
+import construction from "../assets/img/logo/CONSTRUCTION.png"
 
 
 import colorSharp2 from "../assets/img/color-sharp2.png";
@@ -150,8 +151,8 @@ export const Projects = () => {
     {
       title: "Corporate Rebranding",
       description: "Visual Identity",
-      imgUrl: projImg2,
-      fullImage: britectFull
+      imgUrl: construction,
+      fullImage: construction
     },
     {
       title: "Personal Brand Logo",
