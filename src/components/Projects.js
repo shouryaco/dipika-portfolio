@@ -31,8 +31,11 @@ import starpak from "../assets/img/banner/starpak.jpg";
 import crevzlimo from "../assets/img/banner/crevzlimo.jpg";
 import smokysupplies from "../assets/img/banner/smokysupplies.jpg";
 
-import arenaLogo from "../assets/img/logo/Arena-logo.jpg";
-import construction from "../assets/img/logo/CONSTRUCTION.png"
+import arenaLogo from "../assets/img/logo/Arena-logo-v1.jpg";
+import construction from "../assets/img/logo/CONSTRACTION.jpg";
+import Cyber from "../assets/img/logo/Cyber-Logo.png";
+import Abt from "../assets/img/logo/abt-img-after.jpg";
+import heavenLogo from "../assets/img/logo/heaven-5000.jpg";
 
 
 import colorSharp2 from "../assets/img/color-sharp2.png";
@@ -157,26 +160,26 @@ export const Projects = () => {
     {
       title: "Personal Brand Logo",
       description: "Logo Design",
-      imgUrl: projImg1,
-      fullImage: britectFull
+      imgUrl: Cyber,
+      fullImage: Cyber
     },
     {
       title: "Startup Brand Identity",
       description: "Logo & Branding",
-      imgUrl: projImg3,
-      fullImage: britectFull
+      imgUrl: Abt,
+      fullImage: Abt
     },
     {
       title: "Corporate Rebranding",
       description: "Visual Identity",
-      imgUrl: projImg2,
-      fullImage: britectFull
+      imgUrl: heavenLogo,
+      fullImage: heavenLogo
     },
     {
       title: "Personal Brand Logo",
       description: "Logo Design",
-      imgUrl: projImg1,
-      fullImage: britectFull
+      imgUrl: Cyber,
+      fullImage: Cyber
     },
   ];
 
