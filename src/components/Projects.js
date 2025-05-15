@@ -31,6 +31,8 @@ import starpak from "../assets/img/banner/starpak.jpg";
 import crevzlimo from "../assets/img/banner/crevzlimo.jpg";
 import smokysupplies from "../assets/img/banner/smokysupplies.jpg";
 
+import arenaLogo from "../assets/img/logo/Arena-logo.jpg";
+
 
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
@@ -142,8 +144,8 @@ export const Projects = () => {
     {
       title: "Startup Brand Identity",
       description: "Logo & Branding",
-      imgUrl: projImg3,
-      fullImage: britectFull
+      imgUrl: arenaLogo,
+      fullImage: arenaLogo
     },
     {
       title: "Corporate Rebranding",
